@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+宁胜坤  
+中国上海  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+总觉得：知道的越多，不知道的也就越多。  
+如果问我喜欢干什么。 emmm...我果然是喜欢发呆～
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aningsk@foxmail.com](mailto:aningsk@foxmail.com)
